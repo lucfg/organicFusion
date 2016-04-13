@@ -8,29 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		36A2FA821CB32D8D009F5319 /* ViewControllerChains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A2FA811CB32D8D009F5319 /* ViewControllerChains.swift */; };
-		A0A3C6C61CB2B02F00F58B5E /* Alqueno.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6C51CB2B02F00F58B5E /* Alqueno.swift */; };
-		A0A3C6C81CB2B3AE00F58B5E /* Alquino.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6C71CB2B3AE00F58B5E /* Alquino.swift */; };
-		A0A3C6CA1CB2B3DA00F58B5E /* Alcohol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6C91CB2B3DA00F58B5E /* Alcohol.swift */; };
-		A0A3C6CC1CB2B51700F58B5E /* Aldehido.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6CB1CB2B51700F58B5E /* Aldehido.swift */; };
-		A0A3C6D01CB2B56900F58B5E /* Amida.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6CF1CB2B56900F58B5E /* Amida.swift */; };
-		A0A3C6D21CB2B6E400F58B5E /* Amina.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0A3C6D11CB2B6E400F58B5E /* Amina.swift */; };
 		A0FF578D1CB22D8C0068CD6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FF578C1CB22D8C0068CD6A /* AppDelegate.swift */; };
 		A0FF578F1CB22D8C0068CD6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FF578E1CB22D8C0068CD6A /* ViewController.swift */; };
 		A0FF57921CB22D8C0068CD6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0FF57901CB22D8C0068CD6A /* Main.storyboard */; };
 		A0FF57941CB22D8C0068CD6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0FF57931CB22D8C0068CD6A /* Assets.xcassets */; };
 		A0FF57971CB22D8C0068CD6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0FF57951CB22D8C0068CD6A /* LaunchScreen.storyboard */; };
 		A0FF579F1CB230F40068CD6A /* GruposFuncionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FF579E1CB230F40068CD6A /* GruposFuncionales.swift */; };
-		A0FF57A11CB235CA0068CD6A /* Alcano.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FF57A01CB235CA0068CD6A /* Alcano.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		36A2FA811CB32D8D009F5319 /* ViewControllerChains.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerChains.swift; sourceTree = "<group>"; };
-		A0A3C6C51CB2B02F00F58B5E /* Alqueno.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alqueno.swift; sourceTree = "<group>"; };
-		A0A3C6C71CB2B3AE00F58B5E /* Alquino.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alquino.swift; sourceTree = "<group>"; };
-		A0A3C6C91CB2B3DA00F58B5E /* Alcohol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alcohol.swift; sourceTree = "<group>"; };
-		A0A3C6CB1CB2B51700F58B5E /* Aldehido.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Aldehido.swift; sourceTree = "<group>"; };
-		A0A3C6CF1CB2B56900F58B5E /* Amida.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Amida.swift; sourceTree = "<group>"; };
-		A0A3C6D11CB2B6E400F58B5E /* Amina.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Amina.swift; sourceTree = "<group>"; };
 		A0FF57891CB22D8C0068CD6A /* OrganicFusion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrganicFusion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0FF578C1CB22D8C0068CD6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0FF578E1CB22D8C0068CD6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -39,7 +26,6 @@
 		A0FF57961CB22D8C0068CD6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0FF57981CB22D8C0068CD6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0FF579E1CB230F40068CD6A /* GruposFuncionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GruposFuncionales.swift; sourceTree = "<group>"; };
-		A0FF57A01CB235CA0068CD6A /* Alcano.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alcano.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,13 +62,6 @@
 				A0FF578E1CB22D8C0068CD6A /* ViewController.swift */,
 				A0FF57901CB22D8C0068CD6A /* Main.storyboard */,
 				36A2FA811CB32D8D009F5319 /* ViewControllerChains.swift */,
-				A0A3C6D11CB2B6E400F58B5E /* Amina.swift */,
-				A0A3C6CF1CB2B56900F58B5E /* Amida.swift */,
-				A0A3C6CB1CB2B51700F58B5E /* Aldehido.swift */,
-				A0A3C6C91CB2B3DA00F58B5E /* Alcohol.swift */,
-				A0A3C6C71CB2B3AE00F58B5E /* Alquino.swift */,
-				A0A3C6C51CB2B02F00F58B5E /* Alqueno.swift */,
-				A0FF57A01CB235CA0068CD6A /* Alcano.swift */,
 				A0FF579E1CB230F40068CD6A /* GruposFuncionales.swift */,
 				A0FF57931CB22D8C0068CD6A /* Assets.xcassets */,
 				A0FF57951CB22D8C0068CD6A /* LaunchScreen.storyboard */,
@@ -162,17 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0A3C6D01CB2B56900F58B5E /* Amida.swift in Sources */,
 				A0FF578F1CB22D8C0068CD6A /* ViewController.swift in Sources */,
-				A0A3C6C61CB2B02F00F58B5E /* Alqueno.swift in Sources */,
-				A0FF57A11CB235CA0068CD6A /* Alcano.swift in Sources */,
-				A0A3C6CC1CB2B51700F58B5E /* Aldehido.swift in Sources */,
 				A0FF579F1CB230F40068CD6A /* GruposFuncionales.swift in Sources */,
 				36A2FA821CB32D8D009F5319 /* ViewControllerChains.swift in Sources */,
 				A0FF578D1CB22D8C0068CD6A /* AppDelegate.swift in Sources */,
-				A0A3C6C81CB2B3AE00F58B5E /* Alquino.swift in Sources */,
-				A0A3C6D21CB2B6E400F58B5E /* Amina.swift in Sources */,
-				A0A3C6CA1CB2B3DA00F58B5E /* Alcohol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
